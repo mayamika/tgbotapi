@@ -1,4 +1,4 @@
-module github.com/Feresey/tgbotapi
+module github.com/mayamika/tgbotapi
 
 go 1.15
 
